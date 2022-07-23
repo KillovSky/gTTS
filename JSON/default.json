@@ -1,0 +1,44 @@
+[
+	{
+		"date": "22/07/2022 01:06:05",
+		"error": false,
+		"dev_msg": false,
+		"error_msg": false,
+		"code": 200,
+		"explain": {
+			"code": "OK",
+			"why": "The request is OK, this response depends on the HTTP method used."
+		},
+		"headers": {
+			"content-type": "audio/mpeg",
+			"cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+			"pragma": "no-cache",
+			"date": "Sat, 23 Jul 2022 03:52:11 GMT"
+		},
+		"gtts": {
+			"local": "./samples/test.mp3",
+			"buffer": "Not available in default JSON."
+		}
+	},
+	{
+		"date": "22/07/2022 01:06:05",
+		"error": false,
+		"dev_msg": false,
+		"error_msg": false,
+		"code": 200,
+		"explain": {
+			"code": "OK",
+			"why": "The request is OK, this response depends on the HTTP method used."
+		},
+		"headers": {
+			"content-type": "audio/mpeg",
+			"cache-control": "no-cache, no-store, max-age=0, must-revalidate",
+			"pragma": "no-cache",
+			"date": "Sat, 23 Jul 2022 03:52:11 GMT"
+		},
+		"gtts": {
+			"local": "./samples/error.mp3",
+			"buffer": "Not available in default JSON."
+		}
+	}
+]

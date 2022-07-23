@@ -1,0 +1,50 @@
+{
+  "name": "@killovsky/gtts",
+  "version": "1.0.0",
+  "description": "Repositório do módulo de geração de texto para fala Google, gTTS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KillovSky/gTTS.git"
+  },
+  "keywords": [
+    "buffer",
+    "download",
+    "easy",
+    "google",
+    "gtts",
+    "language",
+    "no-dependencies",
+    "read",
+    "sound",
+    "speech",
+    "text",
+    "text-to-speech",
+    "translate",
+    "tts",
+    "voice"
+  ],
+  "author": "KillovSky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KillovSky/gTTS/issues"
+  },
+  "homepage": "https://github.com/KillovSky/gTTS#readme",
+  "funding": [
+    {
+      "type": "kofi",
+      "url": "http://ko-fi.com/killovsky"
+    },
+    {
+      "type": "paypal",
+      "url": "https://bit.ly/33QDaGa"
+    },
+    {
+      "type": "picpay",
+      "url": "https://picpay.me/userlucas123"
+    }
+  ]
+}
